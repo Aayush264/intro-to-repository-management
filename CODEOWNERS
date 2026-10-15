@@ -1,0 +1,7 @@
+# Core functionality
+/src/app.py @Aayush264
+/src/backend/database.py @Aayush264
+/src/backend/routers/auth.py @Aayush264
+
+# Frontend ownership
+/src/static/ @Aayush264
